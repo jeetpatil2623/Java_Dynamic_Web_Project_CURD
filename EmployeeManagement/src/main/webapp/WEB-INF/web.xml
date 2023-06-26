@@ -4,6 +4,6 @@
   <display-name>UserMangement</display-name>
  
   <welcome-file-list>
-		<welcome-file>user-list.jsp</welcome-file>
+		<welcome-file>emp-list.jsp</welcome-file>
 	</welcome-file-list>
 </web-app>
